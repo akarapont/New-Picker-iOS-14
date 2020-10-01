@@ -1,6 +1,17 @@
 # New-Picker-iOS-14
 Example New Picker iOS 14
 
+## Features
+
+* UIMenu
+* UIColorPicker
+* UIDatePicker
+
+## Requirements
+
+- iOS 14
+- Xcode 12.0
+
 ## Example
 ![image](https://raw.githubusercontent.com/devnoz/New-Picker-iOS-14/master/Image/Simulator%20Screen%20Shot%20-%20iPod%20touch%20(7th%20generation)%20-%202020-10-01%20at%2011.06.58.png)
 
